@@ -1,12 +1,7 @@
 # Introduction
 
-This is a short summary of the "random" Rasa and python errors you will no doubt encounter when you're developing.  Some are pretty obscure, and after some time you'll get used to identifying them, and other times no so much.
-
-I'll admin, this post is pretty selfish, it is more for me to have a location bookmarked that I can reference from time to time when I can't remember, but I know it'll help someone new or old to the Rasa scene.
-
-I've posted this as a repo as well, so if you have any updates / corrections / or new errors I've missed (now that there's a new Beta out) feel free to issue a pull-request and I'll get them merged in.
-
-Now without further rambling, here are the errors, in no particular order, other than the order I've encountered them over the last few months when I was compiling this.
+Common Errors you'll see when developing with Rasa.
+Please feel free to send me pull request with additions, changes or corrections.  I'd like this to be a central place to collect these types of "obscure" erorrs.
 
 ---
 
